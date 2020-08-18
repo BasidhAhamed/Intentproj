@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">intents proj</string>
+    <string name="sum">sum</string>
+    <string name="plus">+</string>
+    <string name="btnsub">-</string>
+    <string name="btnmul">*</string>
+    <string name="btnDiv">/</string>
+</resources>
